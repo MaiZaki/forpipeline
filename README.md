@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/MaiElmaleh/MaiElmaleh/_apis/build/status/MaiZaki.forpipeline%20(1)?branchName=master)](https://dev.azure.com/MaiElmaleh/MaiElmaleh/_build/latest?definitionId=2&branchName=master)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
